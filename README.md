@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Brandon Corpas</h1>
-<h3 align="center">Ingeniero Web Full-Stack & Estudiante de Ingeniería en Sistemas (8.º semestre)</h3>
+<h3 align="center">Desarrollador Web Full-Stack & Estudiante de Ingeniería en Sistemas (8.º semestre)</h3>
 
 <p align="center">
   Construyo experiencias web modernas y escalables, desarrolladas en menos tiempo gracias al uso estratégico de inteligencia artificial.<br/>
