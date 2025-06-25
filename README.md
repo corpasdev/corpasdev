@@ -1,17 +1,85 @@
-<h1 align="center">Hola 👋, soy Brandon Corpas</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Colombia</h3>
+<h1 align="center">¡Hola! 👋 Soy Brandon Corpas</h1>
+<h3 align="center">Desarrollador Web Full-Stack & Estudiante de Ingeniería en Sistemas (8.º semestre)</h3>
 
-- 💬 Ask me about **html, css, javascript, reactjs**
-
-- 📫 How to reach me **corpadev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/corpasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corpasdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/corpasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corpasdev" height="30" width="40" /></a>
+<p align="center">
+  Construyo experiencias web modernas y escalables, desarrolladas en menos tiempo gracias al uso estratégico de inteligencia artificial.<br/>
+  Trabajo contigo, no solo para ti.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://brandoncorpas.com" target="_blank">
+    <img alt="Sitio web" src="https://img.shields.io/badge/Portafolio-Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://brandoncorpas.com/resume.pdf" target="_blank">
+    <img alt="CV" src="https://img.shields.io/badge/Hoja_de_vida-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+  <a href="mailto:corpadev@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Contacto-corpadev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
+---
 
+### ⚒️ Tecnologías principales
+
+![Astro](https://img.shields.io/badge/Astro-252527?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🧠 Experiencia profesional
+
+**CooWeb LLC**  
+_2024 - Presente_ · [cooweb.co](https://www.cooweb.co)  
+Tecnologías: Astro, React, Vue.js, TypeScript, Node.js, Strapi, Tailwind, Sass, Firebase, Ant Design, ChartJS, Naive UI
+
+**Departamento IT - UAC**  
+_Jun 2023 - Dic 2023_ · [uac.edu.co](https://uac.edu.co)  
+Tecnologías: Astro, PHP, MySQL, JavaScript, Framer Motion, WordPress, Elementor
+
+---
+
+### 💼 Proyectos destacados
+
+| Proyecto                                                    | Tecnologías principales                 |
+| ----------------------------------------------------------- | --------------------------------------- |
+| [Barranquilla Verde 🌱](https://barranquillaverde.gov.co/)  | Astro, Vue.js, Strapi, Bootstrap, React |
+| [Element Insurance CRM 🔐](https://element-ins.com/)        | Vue.js, Ant Design, ChartJS             |
+| [Tiktime CRM ⏱](https://tikti.me/)                          | Vue.js, Naive UI, Tailwind              |
+| [Kontroll Tech ⚙️](https://kontroll.tech/)                  | Bootstrap, Vue.js, Sass                 |
+| [Landing Astra UAC 🚀](https://astra.uac.edu.co/novedades/) | Astro, PHP, Framer Motion               |
+| [Uniautónoma FM 📻](https://uniautonomafm.co/)              | WordPress, MySQL, Elementor             |
+
+---
+
+### 🛠️ Servicios que ofrezco
+
+- **🖥 Desarrollo Web a Medida:** Desde sitios corporativos hasta apps y landing pages personalizadas.  
+- **🤖 Chatbots y Automatizaciones:** Para WhatsApp o sitios web, con flujos útiles y atención optimizada.  
+- **🎨 Diseño UI/UX:** Interfaces modernas y funcionales diseñadas en Figma.  
+- **📚 Tutorías en Programación:** Acompañamiento personalizado y práctico para aprender a programar desde cero o superar bloqueos.
+
+---
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corpasdev&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de Brandon Corpas" />
+</p>
+
+---
+
+### 🎯 Mi objetivo
+
+Seguir creciendo como desarrollador mientras ayudo a otros a mejorar su presencia digital con soluciones pensadas desde la estrategia, el diseño y la tecnología.
+
+---
+
+<p align="center">Hecho con ❤️ por <a href="https://brandoncorpas.com" target="_blank"><b>Brandon Corpas</b></a></p>
