@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFEMHSxPrwCgA/profile-displaybackgroundimage-shrink_350_1400/B4EZgb.0gWGYAY-/0/1752816110250?e=1755734400&v=beta&t=tu-AiGPQ2faeVExGiEp2k9DKIkr3rydTpNldn-qITYI" alt="Banner de Brandon Corpas" />
+</p>
+
 <h1 align="center">¡Hola! 👋 Soy Brandon Corpas</h1>
 <h3 align="center">Desarrollador Web Full-Stack & Estudiante de Ingeniería en Sistemas (8.º semestre)</h3>
 
